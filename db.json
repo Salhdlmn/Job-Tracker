@@ -1,0 +1,400 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Kodlama.io",
+      "location": "İstanbul/Üsküdar",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "3/29/2023"
+    },
+    {
+      "id": 3,
+      "position": "UI/UX Designer",
+      "company": "Figma",
+      "location": "New York",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "10/3/2023"
+    },
+    {
+      "id": 4,
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "New York",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/2/2020"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 8,
+      "position": "Marketing Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "9/12/2020"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": 10,
+      "position": "Data Analyst",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asdasd",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "81874892-a8f2-4178-9ce1-6eb88f674c0c",
+      "date": "9/2/2023"
+    },
+    {
+      "position": "adasd",
+      "company": "asdas",
+      "location": "dasdasd",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "0aabd128-3b74-4700-93be-c8a2821475a2",
+      "date": "9/2/2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asdasd",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ed3ae2cc-4940-4752-98af-a5f2532aaba9",
+      "date": "9/2/2023"
+    },
+    {
+      "position": "yeni iş",
+      "company": "asels",
+      "location": "ankarar",
+      "status": "Mülakat",
+      "type": "Staj",
+      "id": "0ea8583f-cf45-48b7-a4f0-13e2eefb4c0e",
+      "date": "9/2/2023"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "location": "asd",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "1bf0295a-025f-4c6c-bf4f-4d44e2d7324d",
+      "date": "9/2/2023"
+    },
+    {
+      "position": "asdsadsa",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "cee8680e-e208-4567-ba04-eef58453f5ac",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "asdsadsa",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "b98e1f19-67e4-42a0-9267-055b393ccb9a",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "asdsadsa",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "c334d0c2-16c5-496b-9532-a84ed6e0b743",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "sdffsd",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "09e42ac4-ebe5-4c9b-8a3b-7fdaa6c99e53",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "sdffsd",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "ec122b50-af16-4f2c-b6c5-4e1e903a1baf",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "sdffsd",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "777526bb-668d-4257-8a41-5d273de25388",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sadasd",
+      "company": "dsadas",
+      "location": "dsada",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "1398e0fd-11de-4f28-b7d3-179d42ed5941",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sdadasd",
+      "company": "dsdas",
+      "location": "dsada",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "9940bd06-905c-4517-8c16-801e0a2cbf35",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "f8beefab-eb22-4b47-9ad8-d2d8b8d1d55e",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "be7ded46-85fb-4475-9781-ed773caaab2d",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "531b2e46-ee00-4170-8bbd-6a90e3cd1627",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "b569547f-1af6-4434-b2a7-0933a5c370ff",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "id": "a53d864a-22c3-4017-92ce-4c86d69fe7c7",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "c273d251-88ec-4350-8fdc-cc1d8d1157cd",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "854800d1-9fd2-4a06-acaa-6c2291971165",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "dcba1db0-fcea-4aa5-a619-637f78612474",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dxfdsf",
+      "company": "dasd",
+      "location": "dsada",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "09737f35-20ee-4758-a29f-5d6ff664c65b",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sdsds",
+      "company": "dsds",
+      "location": "dsds",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "be3aeaac-59eb-4b23-9294-9a3cc6fd2977",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sadasd",
+      "company": "dsdas",
+      "location": "sda",
+      "status": "Mülakat",
+      "type": "Staj",
+      "id": "6e9781f6-3b47-4282-8b7a-a2cc61e87766",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "88bd6142-4d62-4009-b54c-e6026ebe5738",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "657f3a26-f22b-4773-970c-95e6319befdc",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "740c803f-c555-4cdf-b495-c6198c9242bc",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "5428864d-ab71-4c2c-82f8-8fafbb8545be",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "1eae277b-d737-430e-bde3-61d38aacacad",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "dsada",
+      "company": "dsadas",
+      "location": "dsadas",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "id": "18491cc5-4b3e-4590-9c65-9b3f711ca6b6",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sadasd",
+      "company": "dasd",
+      "location": "sdffsd",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "13e81601-7ea6-4822-b508-84eaf8fced66",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sadasd",
+      "company": "dasd",
+      "location": "sdffsd",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "665afca7-c746-461e-b839-ede0b55b7ff1",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sadsad",
+      "company": "dsada",
+      "location": "dsadas",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "0cc8d04c-e612-42f3-9b6d-3119b3414b2c",
+      "date": "01.10.2023"
+    },
+    {
+      "position": "sdsds",
+      "company": "dsds",
+      "location": "dsds",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "3adb2165-7849-49b1-bfb7-d650453a0d99",
+      "date": "01.10.2023"
+    }
+  ]
+}
